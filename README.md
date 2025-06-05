@@ -25,7 +25,7 @@ This 5-day intensive course offers a deep dive into diffusion probabilistic mode
 By the end of the course, students will be equipped to understand, implement, and experiment with modern diffusion models.
 
 
-[![Read the Syllabus](https://img.shields.io/badge/Read-Syllabus-orange)](https://github.com/shubham526/pes-summer2025-diffusion-models/blob/main/Resources/syllabus.pdf)  [![See Lecture Notes](https://img.shields.io/badge/View-Lecture%20Notes-purple)]([https://github.com/<username>/<repo>/tree/main/notes](https://github.com/shubham526/pes-summer2025-diffusion-models/blob/main/Resources/notes.pdf))
+[![Read the Syllabus](https://img.shields.io/badge/Read-Syllabus-orange)](https://github.com/shubham526/pes-summer2025-diffusion-models/blob/main/Resources/syllabus.pdf)  [![See Lecture Notes](https://img.shields.io/badge/View-Lecture%20Notes-purple)]([https://github.com/<username>/<repo>/tree/main/notes](https://github.com/shubham526/pes-summer2025-diffusion-models/blob/main/Resources/notes.pdf)
 
 
 ## Instructor
